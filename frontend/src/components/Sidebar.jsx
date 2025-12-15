@@ -81,6 +81,7 @@ const Sidebar = () => {
           <div className="text-center text-zinc-500 py-4">No online users</div>
         )}
       </div>
+      <h2>hello</h2>
     </aside>
   );
 };
